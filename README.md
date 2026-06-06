@@ -43,7 +43,7 @@ I created Ethernet cables and tested them using a cable tester to verify proper 
 
 ### Photos
 
-![Cable Testing](PUT_IMAGE_LINK_HERE)
+![Cable Testing](PXL_20241031_214851728.jpg)
 
 ---
 
@@ -53,11 +53,15 @@ This lab environment included Cisco networking hardware connected to multiple wo
 
 ### Photos
 
-![Router and Switch Setup](PUT_IMAGE_LINK_HERE)
+![Router and Switch Setup](PXL_20241122_223921680.jpg)
 
-![Network Setup](PUT_IMAGE_LINK_HERE)
+![Network Setup](PXL_20241122_220944016.jpg)
 
-![Cisco Equipment](PUT_IMAGE_LINK_HERE)
+![Cisco Equipment](PXL_20241122_214823157.jpg)
+
+![Cisco Router and Switch](PXL_20241122_214501531.jpg)
+
+![Networking Lab](PXL_20241122_214348698.jpg)
 
 ---
 
@@ -73,9 +77,11 @@ I tested communication between systems using the Windows ping command to verify 
 
 ### Photos
 
-![Ping Test 1](PUT_IMAGE_LINK_HERE)
+![Ping Test Workstation 1](PXL_20241115_193447007.jpg)
 
-![Ping Test 2](PUT_IMAGE_LINK_HERE)
+![Ping Test Workstation 2](PXL_20241115_193449818.jpg)
+
+![Successful Network Ping](PXL_20241115_195034452.MP.jpg)
 
 ---
 
